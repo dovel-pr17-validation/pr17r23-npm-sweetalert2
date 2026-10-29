@@ -12,9 +12,9 @@
   "module": "dist/sweetalert2.esm.all.js",
   "types": "sweetalert2.d.ts",
   "devDependencies": {
-    "@babel/core": "^8.0.1",
-    "@babel/preset-env": "^8.0.2",
-    "@rollup/plugin-babel": "^7.0.0",
+    "@babel/core": "^8.0.7",
+    "@babel/preset-env": "^8.0.7",
+    "@rollup/plugin-babel": "^7.1.0",
     "@rollup/plugin-terser": "^1.0.0",
     "@sweetalert2/stylelint-config": "^3.0.0",
     "cypress": "^15.0.0",
