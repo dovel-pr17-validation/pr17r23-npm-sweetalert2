@@ -1,0 +1,12 @@
+{
+  "editor.defaultFormatter": "oxc.oxc-vscode",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.stylelint": "explicit"
+  },
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#8e64a5",
+    "titleBar.inactiveBackground": "#8e64a5"
+  }
+}
